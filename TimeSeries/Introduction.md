@@ -27,3 +27,4 @@ Dynamic Factor models
 
 ref: 
 https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series
+https://www.kaggle.com/tags/time-series-analysis
